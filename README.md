@@ -10,12 +10,11 @@
 <!-- # Whatsapp Clone -->
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/Rdrudra99/Rdrudra99.github.io)
-![GitHub stars](https://img.shields.io/github/stars/Rdrudra99/Rdrudra99.github.io)
-![GitHub forks](https://img.shields.io/github/forks/Rdrudra99/Rdrudra99.github.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/Rdrudra99/whatsappclone)
+![GitHub stars](https://img.shields.io/github/stars/Rdrudra99/whatsappclone)
+![GitHub forks](https://img.shields.io/github/forks/Rdrudra99/whatsappclone)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Rdrudra99?style=social)](https://twitter.com/Rdrudra99)
 [![YouTube Video Views](https://img.shields.io/youtube/views/HtRTmkd5Nsg?style=social)](https://rudra1999.me)
-
 
 
 ![whatsappclone](https://user-images.githubusercontent.com/95564961/164589437-8ffddbfb-fdb9-40d9-857a-cd6d8daecb0a.png)
